@@ -1,0 +1,24 @@
+De acordo ao nosso video, sobre containers,
+vamos montar um ambiente automatizado com Node e MongoDB.
+
+Vamos aos passos? 
+
+Instale o Docker e depois o Docker-Compose, site oficial: https://www.docker.com
+
+Clone este projeto e no diretório raiz, faça o seguinte comando.
+
+docker-compose up
+
+Neste momento, sera feito o download das imagens e depois o build.
+
+
+Quando visualizar isto no seu terminal:
+Running on http://0.0.0.0:8080
+
+
+Acesse o seguinte endereço:
+http://localhost:3000/
+
+E então, teremos um Hello World
+
+Yesss! Congratulations!!!
