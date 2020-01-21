@@ -1,4 +1,4 @@
-De acordo ao nosso video, sobre containers,
+De acordo ao nosso vídeo, sobre containers,
 vamos montar um ambiente automatizado com Node e MongoDB.
 
 Vamos aos passos? 
@@ -9,10 +9,10 @@ Clone este projeto e no diretório raiz, faça o seguinte comando.
 
 docker-compose up
 
-Neste momento, sera feito o download das imagens e depois o build.
+Neste momento, será feito o download das imagens e depois o build.
 
 
-Quando visualizar isto no seu terminal:
+Quando visualizar isso no seu terminal:
 Running on http://0.0.0.0:8080
 
 
